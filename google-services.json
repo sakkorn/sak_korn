@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "917035225183",
+    "firebase_url": "https://fire-d42ee.firebaseio.com",
+    "project_id": "fire-d42ee",
+    "storage_bucket": "fire-d42ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917035225183:android:8565522133aad879",
+        "android_client_info": {
+          "package_name": "com.netease.chiji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917035225183-oi0oubac21540eeiaqiv2m0jhk0qivpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClJ7tBS1m-k42-ILCo-lhlwTM5Xx46FP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917035225183-oi0oubac21540eeiaqiv2m0jhk0qivpp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "917035225183-jpqgqdcf3o9p5jhof70kvjhsj7kpm5kh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.netease.chiji",
+                "app_store_id": "1307961750"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4942253790548451~2771235825"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917035225183:android:26f29fa92838f4c0",
+        "android_client_info": {
+          "package_name": "com.superevilmegacorp.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917035225183-oi0oubac21540eeiaqiv2m0jhk0qivpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClJ7tBS1m-k42-ILCo-lhlwTM5Xx46FP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917035225183-oi0oubac21540eeiaqiv2m0jhk0qivpp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "917035225183-jpqgqdcf3o9p5jhof70kvjhsj7kpm5kh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.netease.chiji",
+                "app_store_id": "1307961750"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4942253790548451~5489485230"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917035225183:android:a66d00390731a004",
+        "android_client_info": {
+          "package_name": "com.tencent.ig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917035225183-oi0oubac21540eeiaqiv2m0jhk0qivpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClJ7tBS1m-k42-ILCo-lhlwTM5Xx46FP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917035225183-oi0oubac21540eeiaqiv2m0jhk0qivpp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "917035225183-jpqgqdcf3o9p5jhof70kvjhsj7kpm5kh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.netease.chiji",
+                "app_store_id": "1307961750"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4942253790548451~5513535969"
+    }
+  ],
+  "configuration_version": "1"
+}
